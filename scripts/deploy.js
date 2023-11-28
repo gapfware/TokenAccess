@@ -62,14 +62,6 @@ async function main() {
       location: "C Complejo Art Media, Buenos Aires",
     },
     {
-      name: "H4ck3d Security Conference 2023",
-      cost: tokens(3),
-      tickets: 40,
-      date: "30 November 2023",
-      time: "10:00 AM (UTC-3)",
-      location: "Universidad de Palermo (Mario Bravo 1050), Buenos Aires",
-    },
-    {
       name: "Venezuela vs Argentina",
       cost: tokens(2),
       tickets: 100,
